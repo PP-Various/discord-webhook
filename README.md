@@ -1,5 +1,6 @@
 # discord-webhook
-DiscordのWebhookを活用した便利そうなアプリのソースコード
+DiscordのWebhookを活用した便利そうなアプリのソースコード  
+コードもこの`README.md`もGemini 3 Pro（一部Flash）が書いています。
 
 --- 
 
