@@ -25,21 +25,21 @@ DiscordのWebhookは、「外部サービスからの通知をDiscordへ自動�
 
 ### 1. PC/サーバーのリソース監視アラート
 （CPU使用率、メモリ、ストレージ監視など）
-![monitor.pyw.png](https://raw.githubusercontent.com/PP-Various/discord-webhook/refs/heads/main/monitor.pyw.png)
 
 ```cmd
 pip install psutil requests
 ```
+![monitor.pyw.png](https://raw.githubusercontent.com/PP-Various/discord-webhook/refs/heads/main/monitor.pyw.png)
 
 ### 2. 瞬間スクショ転送ボタン
 （ショートカットキーで撮影・送信）
 ※Pythonのバージョンが新しいとエラーが出やすいため、関連ライブラリもまとめて更新するこのコマンドが一番確実です。
-![quick_shot.pyw.png](https://raw.githubusercontent.com/PP-Various/discord-webhook/refs/heads/main/quick_shot.pyw.png)
 
 ```cmd
 pip install keyboard requests
 pip install --upgrade pyautogui Pillow pyscreeze
 ```
+![quick_shot.pyw.png](https://raw.githubusercontent.com/PP-Various/discord-webhook/refs/heads/main/quick_shot.pyw.png)
 
 ### 3. 1日の「何してた？」集計Bot
 （アクティブウィンドウの記録・日報）
