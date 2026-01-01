@@ -47,6 +47,7 @@ pip install --upgrade pyautogui Pillow pyscreeze
 ```cmd
 pip install psutil requests
 ```
+![activity_log.pyw.png](https://github.com/PP-Various/discord-webhook/blob/main/activity_log.pyw.png)
 
 --- 
 
